@@ -1,15 +1,13 @@
 import "./App.css";
+import Weather from "./weather";
 
 function App() {
 	return (
 		<div className="App">
-			<div className="container">
-				<header className="App-header">
-					<h1>Weather App</h1>
-				</header>
-				<body>
-					<button className="btn btn-primary">here</button>
-				</body>
+			<div className="container-fluid">
+				<Weather />
+
+				<br />
 
 				<footer>
 					<h4>
