@@ -10,24 +10,22 @@ function App() {
 				<br />
 
 				<footer>
-					<h4>
-						This project was coded by{" "}
-						<a
-							href="https://enisekizilaslan.netlify.app/"
-							target="_blank"
-							rel="noreferrer"
-						>
-							Enise Kizilaslan
-						</a>{" "}
-						{""} and is open-sourced on {""}{" "}
-						<a
-							href="https://github.com/EniseK/React-Weather-Project-Practice"
-							target="_blank"
-							rel="noreferrer"
-						>
-							GitHub
-						</a>
-					</h4>
+					This project was coded by{" "}
+					<a
+						href="https://enisekizilaslan.netlify.app/"
+						target="_blank"
+						rel="noopener noreferrer"
+					>
+						Enise Kizilaslan
+					</a>{" "}
+					{""} and is open-sourced on {""}{" "}
+					<a
+						href="https://github.com/EniseK/React-Weather-Project-Practice"
+						target="_blank"
+						rel="noopener noreferrer"
+					>
+						GitHub
+					</a>
 				</footer>
 			</div>
 		</div>
